@@ -23,13 +23,13 @@ Blood Bank and Donor Management System
 6. Run the script http://localhost/bbdms<br/>
 7. Presentation link "https://docs.google.com/presentation/d/1HBD6sG601-u0DeisVKlgv0DMazWdxcPQWs5cAEZOhBA/edit?usp=sharing" <br/>
 8. 
-**************************Admin Credential***********************
+******Admin Credential*******
 Username: admin
-Password: Test@123
+     Password: Test@123
 
-**************************Donor Credential**********************
+*******Donor Credential*********
 Username: amitk@gmail.com
-Password: Test@123
+    Password: Test@123<br/>
 Or Register a new user. <br/>
 </ul>
 
