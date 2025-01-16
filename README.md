@@ -14,13 +14,14 @@ Blood Bank and Donor Management System
 # Prerequisites
 <b>For Windows</b>
 <ul>
-<li>1.You need to install XAMPP to create a server. Download it their website: ../ https://www.apachefriends.org/download.html <br/>
+<li>1. You need to install XAMPP to create a server. Download it their website: ../ https://www.apachefriends.org/download.html <br/>
 <li>
-2.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)<br/>
-3.Open PHPMyAdmin (http://localhost/phpmyadmin)<br/>
+2. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)<br/>
+3. Open PHPMyAdmin (http://localhost/phpmyadmin)<br/>
 4. Create a bbdms with the name bbdms <br/>
 5. Import bbdms.sql file(given inside the zip package in the SQL file folder)<br/>
 6. Run the script http://localhost/bbdms<br/>
+7. Presentation link "https://docs.google.com/presentation/d/1HBD6sG601-u0DeisVKlgv0DMazWdxcPQWs5cAEZOhBA/edit?usp=sharing" 
 </ul>
 
 
