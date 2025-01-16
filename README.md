@@ -1,6 +1,3 @@
-# Blood-Bank-Donor-Management-System-BBDMS-project
-This is a PHP Project, Here you can find Presentation slide, All code, Readme File etc.
-
 # Project Title
 Blood Bank and Donor Management System
 
@@ -40,7 +37,7 @@ Blood Bank and Donor Management System
 
 # Contribution
 Snehasish Saha Roy Akash <br/>
-Miftahul Hasan Mehedi
+Miftahul Hossan Mehedi
 
 # Author
 Snehasish Saha Roy Akash <br/>
@@ -48,7 +45,7 @@ Department of Computer Science and Engineering <br/>
 North East University Bangladesh <br/>
 Sylhet, Bangladesh <br/>
 <br/>
-Miftahul Hasan Mehedi <br/>
+Miftahul Hossan Mehedi <br/>
 Department of Computer Science and Engineering <br/>
 North East University Bangladesh <br/>
 Sylhet, Bangladesh <br/>
@@ -56,4 +53,3 @@ Sylhet, Bangladesh <br/>
 
 # Acknowledgement
 <ul> <li> Stackoverflow  <br/> </li> <li> Related blogs <br/> </li> <li> etc </li> </ul>
-
