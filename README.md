@@ -49,6 +49,12 @@ Or Register a new user. <br/>
 Snehasish Saha Roy Akash <br/>
 Miftahul Hossan Mehedi
 
+# Moderator
+Razorshi Prozzwal Talukder<br/>
+Department of Computer Science and Engineering <br/>
+North East University Bangladesh <br/>
+
+
 # Author
 Snehasish Saha Roy Akash <br/>
 Department of Computer Science and Engineering <br/>
