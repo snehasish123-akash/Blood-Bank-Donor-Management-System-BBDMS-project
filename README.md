@@ -21,8 +21,8 @@ Blood Bank and Donor Management System
 4. Create a bbdms with the name bbdms <br/>
 5. Import bbdms.sql file(given inside the zip package in the SQL file folder)<br/>
 6. Run the script http://localhost/bbdms<br/>
-**7. Presentation link**"https://docs.google.com/presentation/d/1HBD6sG601-u0DeisVKlgv0DMazWdxcPQWs5cAEZOhBA/edit?usp=sharing" <br/>
-8. ***Project Tutorial :*** " https://drive.google.com/drive/folders/18Tq1a8hw3-QncCJ6AlSN2Ioh8GaOxNMg " <br/>
+7. Presentation link:  "https://docs.google.com/presentation/d/1HBD6sG601-u0DeisVKlgv0DMazWdxcPQWs5cAEZOhBA/edit?usp=sharing" <br/>
+8. ***Project Tutorial: " https://drive.google.com/drive/folders/18Tq1a8hw3-QncCJ6AlSN2Ioh8GaOxNMg " <br/>
 9. 
 ******Admin Credential*******<br/>
 Username: admin<br/>
